@@ -1,13 +1,8 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/mgiganto/msg-GrapheneOS-test/releases/download/2026040300/akita-ota_update-2026040300-user-custom.zip",
-    "location_csig": "https://github.com/mgiganto/msg-GrapheneOS-test/releases/download/2026040300/akita-ota_update-2026040300-user-custom.zip.csig"
+    "location_ota": "https://github.com/mgiganto/msg-GrapheneOS-test/releases/download/2026040600/akita-ota_update-2026040600-user-custom.zip",
+    "location_csig": "https://github.com/mgiganto/msg-GrapheneOS-test/releases/download/2026040600/akita-ota_update-2026040600-user-custom.zip.csig"
   },
-  "incremental": {
-    "6bc46b527747eb89924f98b10bc07f1f32c27a90fe98b60e939951518b830769": {
-      "location_ota": "https://github.com/mgiganto/msg-GrapheneOS-test/releases/download/2026040300/akita-incremental-2026032000-2026040300-user-custom.zip",
-      "location_csig": "https://github.com/mgiganto/msg-GrapheneOS-test/releases/download/2026040300/akita-incremental-2026032000-2026040300-user-custom.zip.csig"
-    }
-  }
+  "incremental": {}
 }
