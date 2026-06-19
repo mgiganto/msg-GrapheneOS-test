@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "full": {
+    "location_ota": "https://github.com/mgiganto/msg-GrapheneOS-test/releases/download/2026061600_test/tegu-ota_update-2026061600_test-userdebug-custom.zip",
+    "location_csig": "https://github.com/mgiganto/msg-GrapheneOS-test/releases/download/2026061600_test/tegu-ota_update-2026061600_test-userdebug-custom.zip.csig"
+  },
+  "incremental": {}
+}
