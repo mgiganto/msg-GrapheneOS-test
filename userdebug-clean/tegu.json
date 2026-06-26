@@ -1,13 +1,8 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/mgiganto/msg-GrapheneOS-test/releases/download/2026061600_test/tegu-ota_update-2026061600_test-userdebug-clean.zip",
-    "location_csig": "https://github.com/mgiganto/msg-GrapheneOS-test/releases/download/2026061600_test/tegu-ota_update-2026061600_test-userdebug-clean.zip.csig"
+    "location_ota": "https://github.com/mgiganto/msg-GrapheneOS-test/releases/download/2026062300_test/tegu-ota_update-2026062300_test-userdebug-clean.zip",
+    "location_csig": "https://github.com/mgiganto/msg-GrapheneOS-test/releases/download/2026062300_test/tegu-ota_update-2026062300_test-userdebug-clean.zip.csig"
   },
-  "incremental": {
-    "7033fca7e385c7ea7044e06d9d2b322a57eab43d421f5da2b4c7ec5558a6877d": {
-      "location_ota": "https://github.com/mgiganto/msg-GrapheneOS-test/releases/download/2026061600_test/tegu-incremental-2026060600_test-2026061600_test-userdebug-clean.zip",
-      "location_csig": "https://github.com/mgiganto/msg-GrapheneOS-test/releases/download/2026061600_test/tegu-incremental-2026060600_test-2026061600_test-userdebug-clean.zip.csig"
-    }
-  }
+  "incremental": {}
 }
